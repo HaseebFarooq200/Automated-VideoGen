@@ -12,7 +12,6 @@ This repository contains a Python script for automating the generation of videos
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
