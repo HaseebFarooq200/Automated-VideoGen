@@ -78,8 +78,3 @@ python Automated_videogen.py
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues and pull requests if you have any ideas for improvement or new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
